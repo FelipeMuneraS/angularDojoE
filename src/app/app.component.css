@@ -1,0 +1,14 @@
+input {
+    text-align: center;
+    margin: 2%;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+label {
+    margin: 2%;
+}
+
+div {
+    margin: 7%;
+}
